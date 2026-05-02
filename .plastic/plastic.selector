@@ -1,4 +1,3 @@
 repository "virtual art exhibition/virtual art exhibition@18968384096013@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main/Charater Movement"
