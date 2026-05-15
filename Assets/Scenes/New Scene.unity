@@ -219,13 +219,65 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1954399599090971112, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: orientation
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021092444167877924, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021092444167877924, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.2750001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2052657997517489217, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2052657997517489217, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.825
+      objectReference: {fileID: 0}
     - target: {fileID: 3124477691388518337, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: f6e831ce896bf4f40a67aacdc2828ade, type: 2}
+    - target: {fileID: 4346872556803464357, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346872556803464357, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.2750001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4419591883463414847, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_Size.x
+      value: 2.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4419591883463414847, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_Size.y
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6255973553228230778, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6255973553228230778, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.825
+      objectReference: {fileID: 0}
     - target: {fileID: 6444919772035067170, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
       propertyPath: m_Name
       value: PF_ArtFrame
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538314360554835328, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538314360554835328, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 8176881848078713648, guid: 21c5ee3e565bb7e4aa7989cd70092114, type: 3}
       propertyPath: m_LocalPosition.x
